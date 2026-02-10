@@ -78,7 +78,8 @@ export default function SearchPage() {
 
       <div
         style={{
-          width: "450px",
+          width: "90%",
+          maxWidth:"450px",
           margin: "0 auto",
           background: "white",
           padding: "20px",
