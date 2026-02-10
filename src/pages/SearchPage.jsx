@@ -134,7 +134,7 @@ export default function SearchPage() {
             )}
           </div>
         ) : (
-          <p style={{ paddingTop: "20px", color: "#777" }}>No search yet</p>
+          <p style={{ paddingTop: "20px", color: "#777" }}>Start by searching for a GitHub user</p>
         )}
       </div>
     </div>
